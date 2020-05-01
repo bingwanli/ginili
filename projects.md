@@ -26,7 +26,7 @@ title: Projects
   <p>I turned our team's concept and features into models with PostgreSQL. Our main models were products, users, and brands, but since there
   were multiple brand images per brand, we created a separate model for brand images. </p>
   <div class="code">
-    <img src= "/assets/images/schema.png" class="code">
+    <img src= "assets/images/schema.png" class="code">
   </div>
 
   <strong>Users</strong>
@@ -38,7 +38,7 @@ title: Projects
     we had to rewrite our code for every brand which was too cumbersome. We ended up seeding the data through the mechanism below. </p>
     <div class="code">
     <small>Scraping data</small>
-      <img src= "/assets/images/scraping.png" class="code">
+      <img src= "assets/images/scraping.png" class="code">
     </div>
 
   <strong>References - Brands and Brand Images</strong>
@@ -48,15 +48,15 @@ title: Projects
 
   <div class="code">
     <small>Admin form for uploading multiple brand images and a brand at the same time</small>
-    <img src= "/assets/images/newbrandview.png" class="code">
+    <img src= "assets/images/newbrandview.png" class="code">
   </div>
   <div class="code">
     <small>Adding brand images in the brand controller via multiple uploads</small>
-    <img src= "/assets/images/brandcontrollercreate.png" class="code">
+    <img src= "assets/images/brandcontrollercreate.png" class="code">
   </div>
   <div class="code">
     <small>Liking mechanism for brand images in brand images controller</small>
-    <img src= "/assets/images/brandimagecontroller.png" class="code">
+    <img src= "assets/images/brandimagecontroller.png" class="code">
   </div>
 
 <strong>Recommendations</strong>
@@ -64,10 +64,10 @@ title: Projects
   deliver recommendations and created jobs to recalculate the recommendations. We deployed on Heroku.</p>
   <div class="code">
     <small>Recommendations view on the user's profile</small>
-    <img src= "/assets/images/recommendationsuserprofile.png" class="code">
+    <img src= "assets/images/recommendationsuserprofile.png" class="code">
   </div>
   <div class="code">
     <small>Job to recalculate recommendations</small>
-    <img src= "/assets/images/RecRecalculateJob.png" class="code">
+    <img src= "assets/images/RecRecalculateJob.png" class="code">
   </div>
 </div>
