@@ -1,11 +1,11 @@
 <nav class = "site-navigation">
   <div class= "nav-image">
-    <img src = "/assets/images/ginili.svg">
+    <img src = {{ '/assets/images/ginili.svg' | relative_url }}>
   </div>
   <ul>
     {% for item in site.data.navigation %}
       <li>
-        <a href="{{ item.link }}" {% if page.url == item.link %} class="active" {% endif %}>
+        <a href="{{ item.link | relative_url }}" {% if page.url == item.link %} class="active" {% endif %}>
           {{ item.name }}
         </a>
       </li>
