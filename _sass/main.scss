@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto+Slab&family=Oswald&display=swap');
 
 /* variables */
 
@@ -53,7 +53,7 @@ body {
 
 p {
   color: #2B2B2B;
-  font-size: 1em;
+  font-size: .9em;
   margin: 1.5em auto;
   line-height: 1.6;
 
@@ -98,10 +98,15 @@ h5 {
 }
 
 h6 {
-  font-size: .875em;
-  font-style: italic;
-  margin: 2.25em auto;
-  text-align: center;
+  font-family: 'Roboto Slab', serif;
+  color: #2B2B2B;
+  padding: .1em .2em;
+  font-weight: 500;
+  margin-right: .5em;
+  font-size: 1em;
+  box-shadow: inset 0 -.5em 0 #bbd64d;
+  border-bottom: .5em solid #bbd64d;
+
 }
 
 em {
@@ -110,20 +115,42 @@ em {
   border-bottom: .5em solid #A9BCD0;
   font-weight: 500;
   margin-right: .5em;
+  font-size: 1em;
 }
 
 strong {
-  color: #2B2B2B;
-  font-weight: 400;
   font-family: 'Roboto Slab', serif;
-  background-color: #d5e573;
+  color: #2B2B2B;
   padding: .1em .2em;
-  border-radius: .2em;
+  font-weight: 500;
+  margin-right: .5em;
+  font-size: 1em;
+  box-shadow: inset 0 -.7em 0 #bbd64d;
+  border-bottom: .2em solid #bbd64d;
 }
+
+.sub strong {
+  font-family: 'Roboto Slab', serif;
+  color: #2F1847;
+  padding: .1em .2em;
+  font-weight: 400;
+  margin-right: .5em;
+  font-size: 1em;
+  box-shadow: inset 0 -.7em 0 #F3D8C7;
+  border-bottom: none;
+}
+
+b {
+  color: #624763;
+  font-weight: 400;
+  letter-spacing: .05em;
+  font-family: 'oswald';
+  text-transform: uppercase;
+  padding: 0 .1em;
+  }
 
 
 a {
-
   color: #2B2B2B;
   font-weight: 600;
   text-decoration: none;
@@ -149,7 +176,9 @@ blockquote {
 
 small {
   font-size: .75em;
+  font-family: 'open sans';
   color: #2B2B2B;
+  margin-left: 1em;
 }
 
 
