@@ -21,5 +21,5 @@ title: About
     <em>Interests:</em>
     <p>Fashion, plants, scenic runs, phone-less meals with great people</p>
     <em>Philosophy:</em>
-    <p>Consistency and hard work triumph talent, it's easier to reach goals than it is the set the right goals, everything is figureoutable </p>
+    <p>Consistency and hard work triumph talent, it's easier to reach goals than it is to set the right goals, everything is figureoutable </p>
   </div>
