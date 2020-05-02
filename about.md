@@ -17,7 +17,7 @@ title: About
     <em>Design:</em>
     <p>Adobe Photoshop, Illustrator, XD, Figma</p>
     <em>Skills:</em>
-    <p>Great at business development, seeing the <strong>BIG PICTURE</strong>, and working with data</p>
+    <p>Great at business development, seeing the <strong>big picture</strong>, and working with data</p>
     <em>Interests:</em>
     <p>Fashion, plants, scenic runs, phone-less meals with great people</p>
     <em>Philosophy:</em>
