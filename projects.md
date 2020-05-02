@@ -59,7 +59,7 @@ title: Projects
   </div>
 
 <strong>Recommendations</strong>
-<p>We used the gem Recommendable gem to generate product recommendations with collaborative filtering logic. The liking mechanism we had on brand images and products fed the calculations. We used Redis to
+<p>We used the Recommendable gem to generate product recommendations with collaborative filtering logic. The liking mechanism we had on brand images and products fed the calculations. We used Redis to
   deliver recommendations and created jobs to recalculate the recommendations once every few days. We deployed on Heroku.</p>
   <div class="code">
     <small>Recommendations view on the user's profile</small>
