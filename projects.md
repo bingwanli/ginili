@@ -64,7 +64,7 @@ title: Projects
   deliver recommendations and created jobs to recalculate the recommendations. We deployed on Heroku.</p>
   <div class="code">
     <small>Recommendations view on the user's profile</small>
-    <img src= "assets/images/recommendationsuserprofile.png" class="code">
+    <img src= "assets/images/RecUserProfile.png" class="code">
   </div>
   <div class="code">
     <small>Job to recalculate recommendations</small>
