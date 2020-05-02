@@ -8,18 +8,17 @@ title: Projects
   <h2>LIGNE</h2>
   <h4><a href="http://www.my-ligne.com" target="blank" text-align="center">my-ligne.com</a></h4>
   <em>Problem:</em>
-  <p>The connection between discovering new brands and purchasing from the new brand is weak. People discover new brands on platforms
-  like Instagram and Pinterest, but rarely make purchases there.</p>
+  <p>Brand discovery and fashion purchases are disconnected. People use different platforms to discover than they do to buy.</p>
 
   <em>Solution:</em>
-  <p>We created a website where editorial images from small international brands are featured randomly in a clean but endlessly scrolling page.
-  Users can leisurely scroll through the page, and like or unlike images they feel fit their personal style. On the brand page, users are introduced
-  to only the brands with editorial images that she has liked. She can learn about the brand, add products to her cart, or share with friends. </p>
+  <p>Editorial images from small international brands are featured randomly in a clean but endlessly scrolling page (similar to a Pinterest page).
+  Users can like or unlike images they feel fit their personal style. They are then introduced
+  to brands whose editorial images they have liked. Users can learn about the brand, add products to their carts, or share and compare products with friends. </p>
 
 
   <em>Context:</em>
-  <p>We worked in a team of 4 and have one week from idea to execution. The process evolved from Figma prototypes to a live demonstration
-  at the end of the week. My role was backend. Here's a peek at my responsibilities:</p>
+  <p>We worked in a team of 4 and had one week from idea to execution. The process evolved from Figma prototypes to a live demonstration
+  at the end of the week. My role was backend, using Ruby on Rails. Here's a peek at my work:</p>
 
 
   <strong>Schema</strong>
